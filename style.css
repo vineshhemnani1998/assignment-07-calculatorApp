@@ -1,0 +1,30 @@
+.main{
+    border: 4px solid #10375C;
+    width: 170px;
+    margin: 0 auto;
+    border-radius: 4px ;
+  /*  padding: 11px 8px;*/
+    padding: 15px 10px;
+    height: 180px;
+    background-image: url(vd.jpg);
+}
+.result{
+    width: 164px;
+    background-image: linear-gradient(to right top, #19161b, #1d1b21, #222126, #26262c, #2b2c32, #2b2e33, #2c3034, #2d3235, #2a3032, #282e2e, #272b2b, #252928);
+    color: whitesmoke;
+    height: 40px;
+    border-radius: 2px;
+}
+
+.ClearBtn{
+    width: 100%;
+    margin-top: 10px;
+    color: whitesmoke;
+    background-image: linear-gradient(to right bottom, #051937, #081c3a, #0c1f3e, #102341, #132645, #0f2e4e, #093756, #023f5d, #004e68, #005e6f, #006d74, #257c76);
+}
+.btn{
+    width: 39.5px;
+    margin-top: 5px;
+    color: whitesmoke;
+    background-image: linear-gradient(to right top, #051937, #032643, #03324e, #084059, #134d62);
+}
